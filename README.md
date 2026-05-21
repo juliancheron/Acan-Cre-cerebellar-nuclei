@@ -3,7 +3,7 @@
 
 The BARseq3 dataset associated with this repository is publicly available on Zenodo:
 
-DOI: 10.5281/zenodo.20214221
+DOI: 10.5281/zenodo.20214220
 
 The dataset contains the processed BARseq3 AnnData (.h5ad) object used for projection mapping and cell-type classification analyses.
 
